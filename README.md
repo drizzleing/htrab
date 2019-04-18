@@ -6,6 +6,6 @@
 
 - 文本资料中的流程图，稍晚一些也会传上来
 
-- 本文使用gitbook创建，访问地址：<https://drizzleing.github.io/htrab/index.html>
+- 本文使用gitbook创建，访问地址：<https://drizzleing.github.io/htrab/>
 
 - 如有任何问题，欢迎联系本人微信：xbxczjh

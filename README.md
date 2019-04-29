@@ -4,7 +4,7 @@
 
 - 喜马拉雅音频资料链接：<https://www.ximalaya.com/youshengshu/3666055>
 
-- 文本资料中的流程图，稍晚一些也会传上来
+- 文本资料中的思维导图，已上传到每个章节的末尾
 
 - 本文使用gitbook创建，访问地址：<https://drizzleing.github.io/htrab/>
 
